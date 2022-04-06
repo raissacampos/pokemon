@@ -1,0 +1,20 @@
+O que é uma API:
+As APIs são um conjunto de padrões que fazem parte de uma interface e que permitem a criação de plataformas de maneira mais simples e prática para desenvolvedores.
+
+Para que serve uma API:
+O intuito de uma API é trocar dados entre sistemas diferentes, na maior parte das vez essas trocas de dados tem como objetivo automatizar processos manuais e/ou 
+permitir a criação de novas funcionalidades.
+
+Exemplos de API para pagamento:
+PagSeguro;
+Paypal;
+Iugu;
+Gerencianet;
+Cielo.
+
+Função anonima: não tem nome, e está dentro de uma constante que vc não consegue mudar o valor
+função: conjunto de códigos dentro de uma função
+
+arrow function
+requisição assincrona: coisas que pode acontecer de forma separada 
+fetch: objeto que realiza uma requisição assíncrona
